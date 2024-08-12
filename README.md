@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zaaratahreem
 - 👀 I’m interested in Front-End web development and content writing.
-- 🌱 I’m currently learning javascript and node js.
+- 🌱 I’m currently learning javascript and java.
 - 💞️ I’m looking to collaborate on the Front end pages 
 - 📫 How to reach me zaaratahreem5@gmail.com 
 - 😄 Pronouns: she/her.
